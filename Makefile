@@ -4,4 +4,4 @@ parser:
 clean:
 	rm -r ./parser
 
-.PHONY: parser parser2 clean
+.PHONY: parser clean
