@@ -17,7 +17,7 @@
 
 *飞书：*
 
-1.  根据 [飞书公开API](https://open.feishu.cn/document/ukTMukTMukTM/uUjNz4SN2MjL1YzM) 显示（只是根据这个猜测内部实现），其自定了部分标签格式（at）；
+1.  根据 [飞书公开API](https://open.feishu.cn/document/uAjLw4CM/ukTMukTMukTM/reference/im-v1/message/create) 显示（只是根据这个猜测内部实现），其自定了部分标签格式（at）；
 
 ### 设想的消息格式
 
